@@ -5,7 +5,11 @@ I am a **Computer Engineering** graduate specializing in building production-gra
 ## 🚀 What I worked on
 *   **Instanomus:** An AI-powered Instagram chatbot SaaS platform built from scratch. It orchestrates LLMs, handles RAG pipelines with Qdrant, uses an async FastAPI backend, and deploys via Docker.
 
-## 🛠️ Technical Toolbox
+## �️ Featured Projects
+*   **[Wayfinder](https://github.com/tasbashi/wayfinder):** An indoor wayfinding platform — a .NET/ASP.NET Core backend with A* pathfinding, JWT auth, and Redis caching, paired with a Next.js admin dashboard and a Next.js mobile web client.
+
+
+## �🛠️ Technical Toolbox
 
 | Area | Technologies |
 | :--- | :--- |
