@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I've worked on
 
 *   **Instanomus** — an AI-powered Instagram chatbot SaaS platform built from scratch. It orchestrates LLMs, handles RAG pipelines with Qdrant, runs on an async FastAPI backend, and deploys via Docker.
 
