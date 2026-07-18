@@ -17,6 +17,3 @@ I am a **Computer Engineering** graduate specializing in building production-gra
 ## 📈 Experience Highlights
 *   **Volunteer Full-Stack AI Engineer** @ Genarion (Building Instanomus architecture)
 *   **Backend Software Engineer Intern** @ Turkcell (Developed a C#-based intelligent song recommendation system)
-
----
-📫 **Connect with me:** yunustasbasi52@gmail.com
